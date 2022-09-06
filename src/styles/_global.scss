@@ -1,0 +1,19 @@
+$primaryColor: darkcyan;
+$secondaryColor: white;
+
+html {
+    font-family: generalFont;
+}
+
+h1 {
+    color: $primaryColor;
+}
+
+h2 {
+    color: $secondaryColor;
+    display: block;
+    height: 1266px;
+    background: url("../images/angular.png");
+    display: flex;
+    justify-content: center;
+}
